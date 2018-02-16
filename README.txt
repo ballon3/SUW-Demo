@@ -8,8 +8,8 @@
 You can find project details on our [project page](https://iothook.com/) and [wiki](https://iothook.com/).
 
 <p align="center">
-<img 
-    src="iotdashboard.png" 
+<img
+    src="iotdashboard.png"
     border="0" alt="IOT HOOK">
     </p>
 <br>
@@ -22,7 +22,7 @@ Features
 - Create a Device for iot devices
 - Create a Channel for iot devices
 - Create a Element for iot devices
-- Simple interface. 
+- Simple interface.
 - Support for channel api key
 - Django REST Framework
 
